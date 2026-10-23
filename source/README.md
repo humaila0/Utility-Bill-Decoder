@@ -86,13 +86,9 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv311\Scripts\Activate.ps1
 ```
 
-## Prepare the Competition Data
+## the Competition Data
 
-Download the competition data from the official participant guide:
-
-https://tinyurl.com/wtq26
-
-Place the test bill images and CSV templates in the following locations:
+the test bill images and CSV templates are in the following locations:
 
 ```text
 data/test/bills/
